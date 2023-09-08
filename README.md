@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo.png" width="200" hight="auto" />
+  <img src="logo.png" width="200" hight="auto" />
 </p>
 
  <h1 align="center"> שנ״צ בתחב״צ - להתעורר בתחנה. </h1>
